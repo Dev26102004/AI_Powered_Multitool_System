@@ -88,4 +88,4 @@ Currently, the project includes a working **RAG pipeline prototype** and is bein
 ---
 
 ## 👨‍💻 Author
-Dev Yadav
+Katriki Venkatesh Devendhar Yadav
